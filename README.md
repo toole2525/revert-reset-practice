@@ -1,3 +1,3 @@
 # revert-reset-practice
 revert reset 練習用
-re 間違えて編集
+1st 変更
